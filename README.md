@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Workshop API 
+# 🚀 Workshop API || e-commerce system
 
 ### _Plataforma Empresarial de Gestão de Pedidos com Arquitetura Avançada_
 
