@@ -8,7 +8,6 @@ import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Service;
 
 import com.tecsoluction.course.entities.Order;
-import com.tecsoluction.course.entities.User;
 import com.tecsoluction.course.repositories.OrderRepository;
 import com.tecsoluction.course.service.exception.DatabaseException;
 import com.tecsoluction.course.service.exception.ResourceNotFoundException;
